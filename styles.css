@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Overpass', sans-serif;
+}
+
+.container {
+    width: 30%;
+    margin: 50px auto;
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px ;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.img-container img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.title{
+    font-weight: 700;
+    color: #fff;
+    margin: 15px 0;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+    margin-bottom: 10px;
+}
+
+.eth-container {
+    display: flex;
+    align-content:flex-end;
+}
+
+.color-cyan {
+    color: hsl(178, 100%, 50%);
+}
+
+.eth-container .h3-margin {
+    margin-left: auto;
+    color: hsl(215, 51%, 70%);
+}
+
+.eth-container i{
+    margin-right: 5px;
+}
+
+hr{
+    color: hsl(215, 32%, 27%);
+    margin: 10px 0;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile img {
+    width: 15%;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.profile .creator{
+    margin-left: 15px;
+    align-self: center;
+    color: hsl(215, 51%, 70%);
+}
+
+
+.profile .creator span{
+    color: #fff;
+}
+
+.profile .creator span:hover,
+.title:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
