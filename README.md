@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component
-You can visit this project at: <a href="https://matiasmass.github.io/card-eth.github.io/" target="_blank">
+You can visit this project at: <a href="https://matiasmass.github.io/card-eth.github.io/" target="_blank">NFT preview card component</a>
 
 ## Desktop version:
 <p align="center">
