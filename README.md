@@ -3,7 +3,7 @@ You can visit this project at: [NFT preview card component](https://matiasmass.g
 
 ## Desktop version:
 <p align="center">
-<a href="https://postimg.cc/62kRPBZh" target="_blank"><img src="https://i.postimg.cc/qqRLzRMW/1.png" alt="1" width="300px" height="500px"/></a><br/><br/>
+<a href="https://postimg.cc/62kRPBZh" target="_blank"><img src="https://i.postimg.cc/qqRLzRMW/1.png" alt="1" width="1581" height="799"/></a><br/><br/>
 </p>
 
 ## Mobile version:
