@@ -3,7 +3,7 @@ You can visit this project at: [NFT preview card component](https://matiasmass.g
 
 ## Desktop version:
 <p align="center">
-![Engelbart|100]("https://i.postimg.cc/62kRPBZh/1.png")
+![Engelbart|100](https://i.postimg.cc/62kRPBZh/1.png)
 </p>
 
 ## Mobile version:
